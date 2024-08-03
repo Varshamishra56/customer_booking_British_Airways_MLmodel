@@ -76,7 +76,7 @@ This project successfully developed and evaluated a predictive model for custome
    ```sh
    jupyter notebook NewAnalysis.ipynb
 
-   ```sh
+```sh
    You can copy this code into your `README.md` file in your GitHub repository. Adjust the repository link if necessary.
 
 ## If you find this project useful or interesting, please consider starring ⭐ the repository to show your support!💕
