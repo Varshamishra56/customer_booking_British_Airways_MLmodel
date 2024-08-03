@@ -55,7 +55,6 @@ The models were trained and their performance was evaluated using confusion matr
 The RandomForest model provides insights into which features are most important for predicting customer bookings.
 
 - ![Feature Importance](feature%20importance.png)
-- ![RandomForest Feature Importance](rf_feature_importance.png)
 
 ## Results Interpretation
 
