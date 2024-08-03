@@ -69,3 +69,14 @@ This project successfully developed and evaluated a predictive model for custome
 1. Clone the repository:
    ```sh
    git clone https://github.com/Varshamishra56/ML_model.git
+2. Navigate to the project directory:
+   ```sh
+   cd ML_model
+3. Open the Jupyter notebook to explore the analysis:
+   ```sh
+   jupyter notebook NewAnalysis.ipynb
+
+   ```sh
+   You can copy this code into your `README.md` file in your GitHub repository. Adjust the repository link if necessary.
+
+## If you find this project useful or interesting, please consider starring ⭐ the repository to show your support!💕
