@@ -71,7 +71,7 @@ This project successfully developed and evaluated a predictive model for custome
    git clone https://github.com/Varshamishra56/ML_model.git
 2. Navigate to the project directory:
    ```sh
-   cd ML_model
+   cd customer_booking_British_Airways_MLmode
 3. Open the Jupyter notebook to explore the analysis:
    ```sh
    jupyter notebook NewAnalysis.ipynb
